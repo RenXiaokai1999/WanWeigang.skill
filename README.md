@@ -1,10 +1,10 @@
-# 万维钢 · 思维操作系统
+# 万维钢.skill
 
 [![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-8A2BE2)](https://claude.ai/code)
 [![女娲](https://img.shields.io/badge/女娲-Skill造人术-FF6B6B)](https://github.com/alchaincyf/nuwa-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **让万维钢的「理工科思维」成为你日常决策的底层操作系统。**
+> **让万维钢的「理工科思维」成为你日常决策的底层操作系统。一个 Claude Code Skill。**
 
 ---
 
@@ -30,7 +30,7 @@
 cd ~/.claude/skills
 
 # 克隆本仓库
-git clone https://github.com/RenXiaokai1999/wanweigan-perspective.git 万维钢-perspective
+git clone https://github.com/RenXiaokai1999/wanweigan.skill.git 万维钢-perspective
 ```
 
 ### 方式二：手动安装
@@ -160,7 +160,7 @@ git clone https://github.com/RenXiaokai1999/wanweigan-perspective.git 万维钢-
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RenXiaokai1999/wanweigan-perspective&type=Date)](https://star-history.com/#RenXiaokai1999/wanweigan-perspective&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=RenXiaokai1999/wanweigan.skill&type=Date)](https://star-history.com/#RenXiaokai1999/wanweigan.skill&Date)
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
