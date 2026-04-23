@@ -30,7 +30,7 @@
 cd ~/.claude/skills
 
 # 克隆本仓库
-git clone https://github.com/RenXiaokai1999/wanweigan.skill.git 万维钢-perspective
+git clone https://github.com/RenXiaokai1999/WanWeigang.skill.git 万维钢-perspective
 ```
 
 ### 方式二：手动安装
@@ -160,7 +160,7 @@ git clone https://github.com/RenXiaokai1999/wanweigan.skill.git 万维钢-perspe
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RenXiaokai1999/wanweigan.skill&type=Date)](https://star-history.com/#RenXiaokai1999/wanweigan.skill&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=RenXiaokai1999/WanWeigang.skill&type=Date)](https://star-history.com/#RenXiaokai1999/WanWeigang.skill&Date)
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
