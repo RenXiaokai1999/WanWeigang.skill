@@ -4,7 +4,7 @@
 [![女娲](https://img.shields.io/badge/女娲-Skill造人术-FF6B6B)](https://github.com/alchaincyf/nuwa-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **让万维钢的「理工科思维」成为你日常决策的底层操作系统。一个 Claude Code Skill。**
+> **让万Sir成为你日常决策的底层操作系统。一个 Claude Code Skill。**
 
 ---
 
@@ -105,8 +105,7 @@ git clone https://github.com/RenXiaokai1999/WanWeigang.skill.git 万维钢-persp
 本 Skill 的蒸馏基于约 15MB 一手素材，包括：
 
 - **《万维钢·现代思维工具100讲》完整课程全文**（1.2MB，2026年3月最新课程）
-- **精英日课第一至六季63个合集.md文件**（5.6MB）
-- **精英日课扫描版OCR文本8卷**（9MB，涵盖数百本书籍解读）
+- **精英日课第一至六季63个合集.md文件**
 - **万维钢著作**：《万万没想到》《高手》《科学思考者》《佛畏系统》《你有你的计划》《拐点》《人比AI凶》《博弈论究竟是什么》《学习究竟是什么》《相对论究竟是什么》等
 
 所有素材均来自万维钢本人的公开课程、书籍和专栏。
@@ -129,9 +128,9 @@ git clone https://github.com/RenXiaokai1999/WanWeigang.skill.git 万维钢-persp
 
 ## 🙏 致谢
 
-### 感谢万维钢
+### 感谢万Sir
 
-感谢万维钢老师近十年持续的高质量内容输出。如果没有他的《精英日课》《现代思维工具100讲》和一系列著作，我们就没有这么丰富、系统的素材来提炼这套思维框架。他的「用理工科思维理解世界」的理念影响了整整一代知识工作者。
+感谢万Sir近十年持续的高质量内容输出。如果没有他的《精英日课》《现代思维工具100讲》和一系列著作，我们就没有这么丰富、系统的素材来提炼这套思维框架。他的「用理工科思维理解世界」的理念影响了整整一代知识工作者。
 
 ### 感谢女娲（Skill造人术）
 
