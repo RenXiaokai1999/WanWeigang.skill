@@ -132,9 +132,9 @@ git clone https://github.com/RenXiaokai1999/WanWeigang.skill.git 万维钢-persp
 
 感谢万Sir近十年持续的高质量内容输出。如果没有他的《精英日课》《现代思维工具100讲》和一系列著作，我们就没有这么丰富、系统的素材来提炼这套思维框架。他的「用理工科思维理解世界」的理念影响了整整一代知识工作者。
 
-### 感谢女娲（Skill造人术）
+### 感谢女娲.Skill
 
-本 Skill 的蒸馏流程遵循 **[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)** 方法论：
+本 Skill 的蒸馏流程遵循 **[女娲.Skill](https://github.com/alchaincyf/nuwa-skill)** 方法论：
 
 > 「写不进去的那部分，才是你真正的护城河。」——但写得进去的部分，已经足够强大。
 
