@@ -11,7 +11,8 @@ WanWeigang.skill/
 ├── PROJECT_RULES.md             ← 本文件
 ├── .gitignore
 ├── references/
-│   └── research/                ← 调研文件（01-08）
+│   ├── research/                ← 持续维护的调研、提炼与验证文件
+│   └── sources/                 ← 本地一手素材（必须由 .gitignore 排除）
 └── scripts/
     └── ocr_scanned_pdfs.py      ← OCR处理脚本
 ```
@@ -25,6 +26,8 @@ WanWeigang.skill/
 - 更新时只增量更新，不重写整个 Skill
 - 每次更新需重新运行 Phase 4 质量验证
 - 重大更新需创建新的 GitHub Release
+- 付费课程原文不得提交或发布；只允许公开非替代性的提炼、短摘要和证据定位
+- 所有推导须区分材料事实、作者原话、研究概括和框架推断
 
 ## 提交约定
 - 提交信息：英文前缀（feat/fix/rename/docs）+ 中文说明

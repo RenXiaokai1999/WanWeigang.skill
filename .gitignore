@@ -24,3 +24,6 @@ Thumbs.db
 # OCR temp files
 *.tmp
 *.temp
+
+# Local first-party source corpus (do not publish paid course text)
+references/sources/
