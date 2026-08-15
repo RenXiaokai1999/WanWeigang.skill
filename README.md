@@ -1,5 +1,7 @@
 # 万维钢.skill
 
+![万维钢.skill：现代思维操作系统](assets/wanweigang-skill-hero-v1.1.0.png)
+
 [![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-8A2BE2)](https://claude.ai/code)
 [![女娲](https://img.shields.io/badge/女娲-Skill造人术-FF6B6B)](https://github.com/alchaincyf/nuwa-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
